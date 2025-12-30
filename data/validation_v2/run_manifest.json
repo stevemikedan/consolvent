@@ -1,0 +1,4122 @@
+[
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_1",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_2",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_3",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_4",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_5",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_6",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_7",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_8",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_9",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_10",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_11",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_12",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_13",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_14",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_15",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_16",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_17",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_18",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_19",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_20",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 21,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_21",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 22,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_22",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 23,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_23",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 24,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_24",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 25,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_25",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 26,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_26",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 27,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_27",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 28,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_28",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 29,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_29",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "baseline",
+        "seed": 30,
+        "output_dir": "data/validation_v2\\power_upgrade\\baseline\\seed_30",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_1",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_2",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_3",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_4",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_5",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_6",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_7",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_8",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_9",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_10",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_11",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_12",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_13",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_14",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_15",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_16",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_17",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_18",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_19",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_20",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 21,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_21",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 22,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_22",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 23,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_23",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 24,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_24",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 25,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_25",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 26,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_26",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 27,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_27",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 28,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_28",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 29,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_29",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "no_evolution",
+        "seed": 30,
+        "output_dir": "data/validation_v2\\power_upgrade\\no_evolution\\seed_30",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_1",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_2",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_3",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_4",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_5",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_6",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_7",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_8",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_9",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_10",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_11",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_12",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_13",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_14",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_15",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_16",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_17",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_18",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_19",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_20",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 21,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_21",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 22,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_22",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 23,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_23",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 24,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_24",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 25,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_25",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 26,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_26",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 27,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_27",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 28,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_28",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 29,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_29",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "random_evolution",
+        "seed": 30,
+        "output_dir": "data/validation_v2\\power_upgrade\\random_evolution\\seed_30",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_1",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_2",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_3",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_4",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_5",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_6",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_7",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_8",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_9",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_10",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_11",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_12",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_13",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_14",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_15",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_16",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_17",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_18",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_19",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_20",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 21,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_21",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 22,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_22",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 23,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_23",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 24,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_24",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 25,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_25",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 26,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_26",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 27,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_27",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 28,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_28",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 29,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_29",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "power_upgrade",
+        "condition": "high_decay",
+        "seed": 30,
+        "output_dir": "data/validation_v2\\power_upgrade\\high_decay\\seed_30",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_1",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_2",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_3",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_4",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_5",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_6",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_7",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_8",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_9",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_10",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_11",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_12",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_13",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_14",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_15",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_16",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_17",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_18",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_19",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_baseline",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_baseline\\seed_20",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_1",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_2",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_3",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_4",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_5",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_6",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_7",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_8",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_9",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_10",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_11",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_12",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_13",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_14",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_15",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_16",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_17",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_18",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_19",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "random_regular_no_evolution",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\topology_robustness\\random_regular_no_evolution\\seed_20",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_1",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_2",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_3",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_4",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_5",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_6",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_7",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_8",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_9",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_10",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_11",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_12",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_13",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_14",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_15",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_16",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_17",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_18",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_19",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_baseline",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_baseline\\seed_20",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_1",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_2",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_3",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_4",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_5",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_6",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_7",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_8",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_9",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_10",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_11",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_12",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_13",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_14",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_15",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_16",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_17",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_18",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_19",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "erdos_renyi_no_evolution",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\topology_robustness\\erdos_renyi_no_evolution\\seed_20",
+        "topology": "erdos_renyi"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_1",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_2",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_3",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_4",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_5",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_6",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_7",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_8",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_9",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_10",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_11",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_12",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_13",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_14",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_15",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_16",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_17",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_18",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_19",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_baseline",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_baseline\\seed_20",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_1",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_2",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_3",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_4",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_5",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_6",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_7",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_8",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_9",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_10",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_11",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_12",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_13",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_14",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_15",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_16",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_17",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_18",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_19",
+        "topology": "small_world"
+    },
+    {
+        "phase": "topology_robustness",
+        "condition": "small_world_no_evolution",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\topology_robustness\\small_world_no_evolution\\seed_20",
+        "topology": "small_world"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_1",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_2",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_3",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_4",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_5",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_6",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_7",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_8",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_9",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_10",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_11",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_12",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_13",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_14",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_15",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_16",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_17",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_18",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_19",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "target_relocation",
+        "condition": "target_relocation",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\target_relocation\\seed_20",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_1",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_2",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_3",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_4",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_5",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 6,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_6",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 7,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_7",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 8,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_8",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 9,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_9",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 10,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_10",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 11,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_11",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 12,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_12",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 13,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_13",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 14,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_14",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 15,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_15",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 16,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_16",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 17,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_17",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 18,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_18",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 19,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_19",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "freeze_constraints",
+        "condition": "freeze_constraints",
+        "seed": 20,
+        "output_dir": "data/validation_v2\\freeze_constraints\\seed_20",
+        "topology": "random_regular"
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.0",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.0\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.0",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.0\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.0",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.0\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.0",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.0\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.0",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.0\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.001",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.001\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.001",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.001\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.001",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.001\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.001",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.001\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.001",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.001\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.01",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.01\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.01",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.01\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.01",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.01\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.01",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.01\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.01",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.01\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.05",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.05\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.05",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.05\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.05",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.05\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.05",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.05\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.01_m0.05",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.01_m0.05\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.0",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.0\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.0",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.0\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.0",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.0\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.0",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.0\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.0",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.0\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.001",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.001\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.001",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.001\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.001",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.001\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.001",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.001\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.001",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.001\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.01",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.01\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.01",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.01\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.01",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.01\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.01",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.01\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.01",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.01\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.05",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.05\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.05",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.05\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.05",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.05\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.05",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.05\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.05_m0.05",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.05_m0.05\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.0",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.0\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.0",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.0\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.0",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.0\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.0",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.0\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.0",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.0\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.001",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.001\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.001",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.001\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.001",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.001\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.001",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.001\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.001",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.001\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.01",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.01\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.01",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.01\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.01",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.01\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.01",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.01\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.01",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.01\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.05",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.05\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.05",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.05\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.05",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.05\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.05",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.05\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b0.5_l0.1_m0.05",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b0.5_l0.1_m0.05\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 0.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.0",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.0\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.0",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.0\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.0",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.0\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.0",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.0\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.0",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.0\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.001",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.001\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.001",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.001\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.001",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.001\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.001",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.001\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.001",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.001\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.01",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.01\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.01",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.01\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.01",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.01\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.01",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.01\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.01",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.01\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.05",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.05\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.05",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.05\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.05",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.05\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.05",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.05\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.01_m0.05",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.01_m0.05\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.0",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.0\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.0",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.0\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.0",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.0\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.0",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.0\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.0",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.0\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.001",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.001\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.001",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.001\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.001",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.001\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.001",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.001\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.001",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.001\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.01",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.01\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.01",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.01\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.01",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.01\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.01",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.01\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.01",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.01\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.05",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.05\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.05",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.05\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.05",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.05\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.05",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.05\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.05_m0.05",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.05_m0.05\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.0",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.0\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.0",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.0\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.0",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.0\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.0",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.0\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.0",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.0\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.001",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.001\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.001",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.001\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.001",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.001\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.001",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.001\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.001",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.001\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.01",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.01\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.01",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.01\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.01",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.01\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.01",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.01\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.01",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.01\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.05",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.05\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.05",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.05\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.05",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.05\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.05",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.05\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.0_l0.1_m0.05",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.0_l0.1_m0.05\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.0,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.0",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.0\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.0",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.0\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.0",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.0\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.0",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.0\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.0",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.0\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.001",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.001\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.001",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.001\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.001",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.001\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.001",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.001\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.001",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.001\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.01",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.01\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.01",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.01\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.01",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.01\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.01",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.01\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.01",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.01\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.05",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.05\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.05",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.05\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.05",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.05\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.05",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.05\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.01_m0.05",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.01_m0.05\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.01,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.0",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.0\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.0",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.0\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.0",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.0\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.0",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.0\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.0",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.0\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.001",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.001\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.001",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.001\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.001",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.001\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.001",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.001\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.001",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.001\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.01",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.01\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.01",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.01\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.01",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.01\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.01",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.01\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.01",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.01\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.05",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.05\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.05",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.05\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.05",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.05\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.05",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.05\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.05_m0.05",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.05_m0.05\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.05,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.0",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.0\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.0",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.0\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.0",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.0\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.0",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.0\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.0",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.0\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.0
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.001",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.001\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.001",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.001\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.001",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.001\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.001",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.001\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.001",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.001\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.001
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.01",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.01\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.01",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.01\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.01",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.01\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.01",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.01\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.01",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.01\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.01
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.05",
+        "seed": 1,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.05\\seed_1",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.05",
+        "seed": 2,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.05\\seed_2",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.05",
+        "seed": 3,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.05\\seed_3",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.05",
+        "seed": 4,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.05\\seed_4",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    },
+    {
+        "phase": "parameter_map",
+        "condition": "b1.5_l0.1_m0.05",
+        "seed": 5,
+        "output_dir": "data/validation_v2\\parameter_map\\b1.5_l0.1_m0.05\\seed_5",
+        "topology": "random_regular",
+        "params": {
+            "beta": 1.5,
+            "lambda": 0.1,
+            "mu": 0.05
+        }
+    }
+]
