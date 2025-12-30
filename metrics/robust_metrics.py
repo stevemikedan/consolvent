@@ -46,9 +46,9 @@ def analyze_seed_data(df, early_frac=0.2, late_frac=0.2):
     Performs the full suite of V2 metrics for a single seed's log.
     Uses proportional windows for early/late comparison.
     """
-    episodes = df['episode'].values
+    episodes = df['episode_idx'].values
     ht = df['hitting_time'].values
-    entropy = df['entropy'].values
+    entropy = df['path_entropy'].values
     
     ht_slope = compute_theilsen_slope(episodes, ht)
     entropy_slope = compute_theilsen_slope(episodes, entropy)

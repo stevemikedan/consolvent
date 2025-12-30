@@ -36,7 +36,7 @@ def run_power_upgrade():
         for seed in seeds:
             seed_dir = os.path.join(cond_dir, f"seed_{seed}")
             print(f"Running {cond['name']} - Seed {seed}")
-            sim = Simulator(**cond['params'], seed=seed)
+            sim = Simulator(**cond['params'], seed=seed, validation_version="v2", condition=cond['name'])
             sim.run_simulation(num_episodes=episodes, output_dir=seed_dir)
             manifest.append({
                 "phase": "power_upgrade",
@@ -72,7 +72,7 @@ def run_topology_robustness():
             
             for seed in seeds:
                 print(f"Running Topology {topo['name']} {mode_name} - Seed {seed}")
-                sim = Simulator(**p, **topo['kwargs'], seed=seed)
+                sim = Simulator(**p, **topo['kwargs'], seed=seed, validation_version="v2", condition=cond_name)
                 sim_seed_dir = os.path.join(cond_dir, f"seed_{seed}")
                 sim.run_simulation(num_episodes=episodes, output_dir=sim_seed_dir)
                 manifest.append({
@@ -95,7 +95,7 @@ def run_target_relocation():
     for seed in seeds:
         print(f"Running Target Relocation - Seed {seed}")
         cond_dir = os.path.join(ROOT_DATA, "target_relocation", f"seed_{seed}")
-        sim = Simulator(**params, seed=seed)
+        sim = Simulator(**params, seed=seed, validation_version="v2", condition="target_relocation")
         
         # Phase 1: Target A1
         sim.run_simulation(num_episodes=episodes_per_phase, output_dir=cond_dir, start_episode=0)
@@ -123,7 +123,7 @@ def run_freeze_constraints():
     for seed in seeds:
         print(f"Running Freeze Constraints - Seed {seed}")
         cond_dir = os.path.join(ROOT_DATA, "freeze_constraints", f"seed_{seed}")
-        sim = Simulator(**params, seed=seed)
+        sim = Simulator(**params, seed=seed, validation_version="v2", condition="freeze_constraints")
         
         # Phase 1: Evolution On
         sim.run_simulation(num_episodes=episodes_per_phase, output_dir=cond_dir, start_episode=0)
@@ -157,7 +157,7 @@ def run_parameter_map():
                 cond_dir = os.path.join(ROOT_DATA, "parameter_map", cond_name)
                 for seed in seeds:
                     print(f"Running ParaMap {cond_name} - Seed {seed}")
-                    sim = Simulator(beta=b, lmbda=l, mu=m, seed=seed)
+                    sim = Simulator(beta=b, lmbda=l, mu=m, seed=seed, validation_version="v2", condition=cond_name)
                     sim_seed_dir = os.path.join(cond_dir, f"seed_{seed}")
                     sim.run_simulation(num_episodes=episodes, output_dir=sim_seed_dir)
                     manifest.append({
@@ -179,9 +179,10 @@ def main():
     all_manifest.extend(run_freeze_constraints())
     all_manifest.extend(run_parameter_map())
     
-    with open(os.path.join(ROOT_DATA, "run_manifest.json"), 'w') as f:
+    os.makedirs(os.path.join("data", "v2"), exist_ok=True)
+    with open(os.path.join("data", "v2", "run_manifest.json"), 'w') as f:
         json.dump(all_manifest, f, indent=4)
-    print(f"\nManifest saved to {os.path.join(ROOT_DATA, 'run_manifest.json')}")
+    print(f"\nManifest saved to {os.path.join('data', 'v2', 'run_manifest.json')}")
 
 if __name__ == "__main__":
     main()

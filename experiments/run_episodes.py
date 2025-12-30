@@ -19,13 +19,24 @@ class Simulator:
     def __init__(self, size: int = 100, beta: float = 5.0, lmbda: float = 0.1, mu: float = 0.0,
                  target_size: int = 5, seed: int = 42, evolution_mode: str = "standard",
                  snapshot_episodes: List[int] = None, topology: str = "random_regular",
-                 topology_kwargs: Dict[str, Any] = None):
+                 topology_kwargs: Dict[str, Any] = None,
+                 validation_version: str = "v2", condition: str = "unknown",
+                 run_id: str = None):
         self.seed = seed
+        self.size = size
+        self.topology = topology
+        self.validation_version = validation_version
+        self.condition = condition
+        self.run_id = run_id or f"{validation_version}_{condition}_s{seed}"
+        
         random.seed(seed)
         np.random.seed(seed)
         
         topo_args = topology_kwargs or {}
         self.state_space = StateSpace(size=size, topology=topology, **topo_args)
+        # Degree might vary if not regular, but for regular it's topo_args.get('k', 4)
+        self.degree = topo_args.get('k', 4) if topology == 'random_regular' else "variable"
+        
         self.constraints = ConstraintField(self.state_space.get_edges())
         self.dynamics = Dynamics(beta=beta)
         
@@ -99,12 +110,21 @@ class Simulator:
         self.stats_tracker.record(episode_idx, stats)
         
         log_entry = {
-            "episode": episode_idx,
-            "start_node": start_node,
-            "final_node": current_node,
+            "run_id": self.run_id,
+            "validation_version": self.validation_version,
+            "condition": self.condition,
+            "seed": self.seed,
+            "topology": self.topology,
+            "n_nodes": self.size,
+            "degree": self.degree,
+            "episode_idx": episode_idx,
             "hitting_time": steps,
-            "entropy": entropy,
-            "num_transitions": len(transitions)
+            "path_entropy": entropy,
+            "accepted_moves": len(transitions),
+            "attempted_moves": steps,
+            "accept_rate": len(transitions) / steps if steps > 0 else 0.0,
+            "start_node": start_node,
+            "final_node": current_node
         }
         self.episode_logs.append(log_entry)
         
@@ -119,7 +139,7 @@ class Simulator:
         print(f"Starting simulation: {num_episodes} episodes from {start_episode}, λ={self.lmbda}, μ={self.mu}, mode={self.evolution_mode}, seed={self.seed}")
         
         if not os.path.exists(output_dir):
-            os.makedirs(output_dir)
+            os.makedirs(output_dir, exist_ok=True)
 
         for i in range(num_episodes):
             eps_idx = start_episode + i
@@ -137,9 +157,15 @@ class Simulator:
 
     def save_results(self, output_dir: str = "data"):
         if not os.path.exists(output_dir):
-            os.makedirs(output_dir)
+            os.makedirs(output_dir, exist_ok=True)
             
         pd.DataFrame(self.episode_logs).to_csv(os.path.join(output_dir, "episode_logs.csv"), index=False)
+        
+        # Also save to standardized path if possible
+        std_dir = os.path.join("data", "episodes", self.validation_version, self.condition)
+        os.makedirs(std_dir, exist_ok=True)
+        pd.DataFrame(self.episode_logs).to_csv(os.path.join(std_dir, f"{self.run_id}_episodes.csv"), index=False)
+        
         self.stats_tracker.get_dataframe().to_csv(os.path.join(output_dir, "constraint_stats.csv"), index=False)
         
         # Snapshot of final constraints

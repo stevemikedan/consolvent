@@ -25,14 +25,13 @@ def get_seed_logs(run: Dict[str, Any]):
         return pd.read_csv(csv_path)
     return None
 
-def plot_hitting_times_overlay(all_runs: List[Dict[str, Any]], phase: str = "power_upgrade"):
-    """Generates overlay plots for hitting times with CI and IQR bands."""
+def plot_hitting_times_overlay(all_runs: List[Dict[str, Any]], phase: str = "power_upgrade", stats_df: pd.DataFrame = None):
+    """Generates overlay plots for hitting times with CI and IQR bands and robust stats."""
     print(f"Plotting overlay for phase: {phase}")
     phase_runs = [r for r in all_runs if r['phase'] == phase]
     conditions = sorted(list(set(r['condition'] for r in phase_runs)))
     
     plt.figure(figsize=(12, 7))
-    
     colors = sns.color_palette("husl", len(conditions))
     
     for cond, color in zip(conditions, colors):
@@ -41,23 +40,30 @@ def plot_hitting_times_overlay(all_runs: List[Dict[str, Any]], phase: str = "pow
         for run in cond_runs:
             df = get_seed_logs(run)
             if df is not None:
-                # To save memory, we can downsample or rolling window aggregate per seed
-                df = df[['episode', 'hitting_time']].copy()
+                df = df[['episode_idx', 'hitting_time']].copy()
                 df['hitting_time'] = df['hitting_time'].rolling(window=20).mean()
                 dfs.append(df)
         
         if dfs:
             combined = pd.concat(dfs, ignore_index=True)
-            # Use lineplot with errorbar
-            sns.lineplot(data=combined, x="episode", y="hitting_time", label=cond, color=color, errorbar="sd")
+            label = cond
+            if stats_df is not None:
+                cond_stats = stats_df[stats_df['condition'] == cond]
+                if not cond_stats.empty:
+                    slope = cond_stats['ht_slope'].mean()
+                    pass_rate = cond_stats['passes_v2'].mean()
+                    label = f"{cond}\n(slope={slope:.3f}, pass={pass_rate:.0%})"
+            
+            sns.lineplot(data=combined, x="episode_idx", y="hitting_time", label=label, color=color, errorbar="sd")
             del combined
             gc.collect()
 
     plt.title(f"Averaged Hitting Times - {phase.replace('_', ' ').capitalize()}")
     plt.xlabel("Episode")
     plt.ylabel("Hitting Time (Rolling Mean 20 eps)")
-    plt.legend()
+    plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
     plt.grid(True, alpha=0.3)
+    plt.tight_layout()
     plt.savefig(os.path.join(ROOT_FIGURES, f"overlay_hitting_times_{phase}_mean_sd.pdf"))
     plt.close()
 
