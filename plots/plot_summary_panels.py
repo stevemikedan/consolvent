@@ -12,15 +12,16 @@ def parse_args():
 
 def plot_slopes(df, out_path):
     plt.figure(figsize=(12, 6))
-    # filter for main conditions for clarity if v2
-    if 'power_upgrade' in df['run_id'].values: # simplistic check
-         # Actually let's just plot what's there but maybe filter to a subset if too many
-         pass
-    
     sns.boxplot(data=df, x="condition", y="ht_slope_theilsen", palette="husl")
-    plt.axhline(0, color='red', linestyle='--')
-    plt.title("Hitting Time Slopes by Condition")
+    plt.axhline(0, color='red', linestyle='--', label='No trend')
+    
+    # Add numeric summary to title
+    baseline_slope = df[df['condition'].str.contains('baseline', case=False, na=False)]['ht_slope_theilsen'].median()
+    plt.title(f"Hitting Time Slopes by Condition\\nBaseline median slope = {baseline_slope:.4f}")
+    plt.xlabel("Condition")
+    plt.ylabel("Theil-Sen Slope")
     plt.xticks(rotation=45, ha='right')
+    plt.legend()
     plt.tight_layout()
     plt.savefig(out_path)
     plt.close()
@@ -28,9 +29,15 @@ def plot_slopes(df, out_path):
 def plot_effect_sizes(df, out_path):
     plt.figure(figsize=(12, 6))
     sns.boxplot(data=df, x="condition", y="cliffs_delta_ht", palette="husl")
-    plt.axhline(0, color='red', linestyle='--')
-    plt.title("Cliff's Delta Effect Sizes by Condition")
+    plt.axhline(0, color='red', linestyle='--', label='No effect')
+    
+    # Add numeric summary to title
+    baseline_delta = df[df['condition'].str.contains('baseline', case=False, na=False)]['cliffs_delta_ht'].median()
+    plt.title(f"Cliff's Delta Effect Sizes by Condition\\nBaseline median \u03b4 = {baseline_delta:.3f}")
+    plt.xlabel("Condition")
+    plt.ylabel("Cliff's Delta (late vs early)")
     plt.xticks(rotation=45, ha='right')
+    plt.legend()
     plt.tight_layout()
     plt.savefig(out_path)
     plt.close()

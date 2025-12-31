@@ -51,8 +51,8 @@ def plot_hitting_times_overlay(all_runs: List[Dict[str, Any]], phase: str = "pow
                 cond_stats = stats_df[stats_df['condition'] == cond]
                 if not cond_stats.empty:
                     slope = cond_stats['ht_slope'].mean()
-                    pass_rate = cond_stats['passes_v2'].mean()
-                    label = f"{cond}\n(slope={slope:.3f}, pass={pass_rate:.0%})"
+                    delta = cond_stats['cliffs_delta'].mean()
+                    label = f"{cond}\n(slope={slope:.3f}, δ={delta:.2f})"
             
             sns.lineplot(data=combined, x="episode_idx", y="hitting_time", label=label, color=color, errorbar="sd")
             del combined

@@ -6,7 +6,8 @@
         "seed": 1,
         "topology": "random_regular",
         "output_dir": "data/validation\\baseline\\seed_1",
-        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s1_episodes.csv"
+        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s1_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_baseline_s2",
@@ -15,7 +16,8 @@
         "seed": 2,
         "topology": "random_regular",
         "output_dir": "data/validation\\baseline\\seed_2",
-        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s2_episodes.csv"
+        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s2_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_baseline_s3",
@@ -24,7 +26,8 @@
         "seed": 3,
         "topology": "random_regular",
         "output_dir": "data/validation\\baseline\\seed_3",
-        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s3_episodes.csv"
+        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s3_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_baseline_s4",
@@ -33,7 +36,8 @@
         "seed": 4,
         "topology": "random_regular",
         "output_dir": "data/validation\\baseline\\seed_4",
-        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s4_episodes.csv"
+        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s4_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_baseline_s5",
@@ -42,7 +46,8 @@
         "seed": 5,
         "topology": "random_regular",
         "output_dir": "data/validation\\baseline\\seed_5",
-        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s5_episodes.csv"
+        "standardized_log": "data/episodes/v1\\baseline\\v1_baseline_s5_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_high_decay_s1",
@@ -51,7 +56,8 @@
         "seed": 1,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\high_decay\\seed_1",
-        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s1_episodes.csv"
+        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s1_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_high_decay_s2",
@@ -60,7 +66,8 @@
         "seed": 2,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\high_decay\\seed_2",
-        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s2_episodes.csv"
+        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s2_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_high_decay_s3",
@@ -69,7 +76,8 @@
         "seed": 3,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\high_decay\\seed_3",
-        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s3_episodes.csv"
+        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s3_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_high_decay_s4",
@@ -78,7 +86,8 @@
         "seed": 4,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\high_decay\\seed_4",
-        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s4_episodes.csv"
+        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s4_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_high_decay_s5",
@@ -87,7 +96,8 @@
         "seed": 5,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\high_decay\\seed_5",
-        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s5_episodes.csv"
+        "standardized_log": "data/episodes/v1\\high_decay\\v1_high_decay_s5_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_no_evolution_s1",
@@ -96,7 +106,8 @@
         "seed": 1,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\no_evolution\\seed_1",
-        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s1_episodes.csv"
+        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s1_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_no_evolution_s2",
@@ -105,7 +116,8 @@
         "seed": 2,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\no_evolution\\seed_2",
-        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s2_episodes.csv"
+        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s2_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_no_evolution_s3",
@@ -114,7 +126,8 @@
         "seed": 3,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\no_evolution\\seed_3",
-        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s3_episodes.csv"
+        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s3_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_no_evolution_s4",
@@ -123,7 +136,8 @@
         "seed": 4,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\no_evolution\\seed_4",
-        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s4_episodes.csv"
+        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s4_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_no_evolution_s5",
@@ -132,7 +146,8 @@
         "seed": 5,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\no_evolution\\seed_5",
-        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s5_episodes.csv"
+        "standardized_log": "data/episodes/v1\\no_evolution\\v1_no_evolution_s5_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_random_evolution_s1",
@@ -141,7 +156,8 @@
         "seed": 1,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\random_evolution\\seed_1",
-        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s1_episodes.csv"
+        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s1_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_random_evolution_s2",
@@ -150,7 +166,8 @@
         "seed": 2,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\random_evolution\\seed_2",
-        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s2_episodes.csv"
+        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s2_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_random_evolution_s3",
@@ -159,7 +176,8 @@
         "seed": 3,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\random_evolution\\seed_3",
-        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s3_episodes.csv"
+        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s3_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_random_evolution_s4",
@@ -168,7 +186,8 @@
         "seed": 4,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\random_evolution\\seed_4",
-        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s4_episodes.csv"
+        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s4_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_random_evolution_s5",
@@ -177,7 +196,8 @@
         "seed": 5,
         "topology": "random_regular",
         "output_dir": "data/validation\\controls\\random_evolution\\seed_5",
-        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s5_episodes.csv"
+        "standardized_log": "data/episodes/v1\\random_evolution\\v1_random_evolution_s5_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_0.5_lambda_0.01_mu_0.0_s42",
@@ -186,7 +206,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_0.5_lambda_0.01_mu_0.0",
-        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.01_mu_0.0\\v1_beta_0.5_lambda_0.01_mu_0.0_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.01_mu_0.0\\v1_beta_0.5_lambda_0.01_mu_0.0_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_0.5_lambda_0.01_mu_0.01_s42",
@@ -195,7 +216,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_0.5_lambda_0.01_mu_0.01",
-        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.01_mu_0.01\\v1_beta_0.5_lambda_0.01_mu_0.01_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.01_mu_0.01\\v1_beta_0.5_lambda_0.01_mu_0.01_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_0.5_lambda_0.01_mu_0.05_s42",
@@ -204,7 +226,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_0.5_lambda_0.01_mu_0.05",
-        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.01_mu_0.05\\v1_beta_0.5_lambda_0.01_mu_0.05_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.01_mu_0.05\\v1_beta_0.5_lambda_0.01_mu_0.05_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_0.5_lambda_0.05_mu_0.0_s42",
@@ -213,7 +236,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_0.5_lambda_0.05_mu_0.0",
-        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.05_mu_0.0\\v1_beta_0.5_lambda_0.05_mu_0.0_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.05_mu_0.0\\v1_beta_0.5_lambda_0.05_mu_0.0_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_0.5_lambda_0.05_mu_0.01_s42",
@@ -222,7 +246,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_0.5_lambda_0.05_mu_0.01",
-        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.05_mu_0.01\\v1_beta_0.5_lambda_0.05_mu_0.01_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.05_mu_0.01\\v1_beta_0.5_lambda_0.05_mu_0.01_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_0.5_lambda_0.05_mu_0.05_s42",
@@ -231,7 +256,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_0.5_lambda_0.05_mu_0.05",
-        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.05_mu_0.05\\v1_beta_0.5_lambda_0.05_mu_0.05_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.05_mu_0.05\\v1_beta_0.5_lambda_0.05_mu_0.05_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_0.5_lambda_0.1_mu_0.0_s42",
@@ -240,7 +266,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_0.5_lambda_0.1_mu_0.0",
-        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.1_mu_0.0\\v1_beta_0.5_lambda_0.1_mu_0.0_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.1_mu_0.0\\v1_beta_0.5_lambda_0.1_mu_0.0_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_0.5_lambda_0.1_mu_0.01_s42",
@@ -249,7 +276,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_0.5_lambda_0.1_mu_0.01",
-        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.1_mu_0.01\\v1_beta_0.5_lambda_0.1_mu_0.01_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.1_mu_0.01\\v1_beta_0.5_lambda_0.1_mu_0.01_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_0.5_lambda_0.1_mu_0.05_s42",
@@ -258,7 +286,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_0.5_lambda_0.1_mu_0.05",
-        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.1_mu_0.05\\v1_beta_0.5_lambda_0.1_mu_0.05_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_0.5_lambda_0.1_mu_0.05\\v1_beta_0.5_lambda_0.1_mu_0.05_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.0_lambda_0.01_mu_0.0_s42",
@@ -267,7 +296,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.0_lambda_0.01_mu_0.0",
-        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.01_mu_0.0\\v1_beta_1.0_lambda_0.01_mu_0.0_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.01_mu_0.0\\v1_beta_1.0_lambda_0.01_mu_0.0_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.0_lambda_0.01_mu_0.01_s42",
@@ -276,7 +306,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.0_lambda_0.01_mu_0.01",
-        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.01_mu_0.01\\v1_beta_1.0_lambda_0.01_mu_0.01_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.01_mu_0.01\\v1_beta_1.0_lambda_0.01_mu_0.01_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.0_lambda_0.01_mu_0.05_s42",
@@ -285,7 +316,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.0_lambda_0.01_mu_0.05",
-        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.01_mu_0.05\\v1_beta_1.0_lambda_0.01_mu_0.05_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.01_mu_0.05\\v1_beta_1.0_lambda_0.01_mu_0.05_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.0_lambda_0.05_mu_0.0_s42",
@@ -294,7 +326,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.0_lambda_0.05_mu_0.0",
-        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.05_mu_0.0\\v1_beta_1.0_lambda_0.05_mu_0.0_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.05_mu_0.0\\v1_beta_1.0_lambda_0.05_mu_0.0_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.0_lambda_0.05_mu_0.01_s42",
@@ -303,7 +336,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.0_lambda_0.05_mu_0.01",
-        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.05_mu_0.01\\v1_beta_1.0_lambda_0.05_mu_0.01_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.05_mu_0.01\\v1_beta_1.0_lambda_0.05_mu_0.01_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.0_lambda_0.05_mu_0.05_s42",
@@ -312,7 +346,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.0_lambda_0.05_mu_0.05",
-        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.05_mu_0.05\\v1_beta_1.0_lambda_0.05_mu_0.05_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.05_mu_0.05\\v1_beta_1.0_lambda_0.05_mu_0.05_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.0_lambda_0.1_mu_0.0_s42",
@@ -321,7 +356,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.0_lambda_0.1_mu_0.0",
-        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.1_mu_0.0\\v1_beta_1.0_lambda_0.1_mu_0.0_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.1_mu_0.0\\v1_beta_1.0_lambda_0.1_mu_0.0_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.0_lambda_0.1_mu_0.01_s42",
@@ -330,7 +366,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.0_lambda_0.1_mu_0.01",
-        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.1_mu_0.01\\v1_beta_1.0_lambda_0.1_mu_0.01_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.1_mu_0.01\\v1_beta_1.0_lambda_0.1_mu_0.01_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.0_lambda_0.1_mu_0.05_s42",
@@ -339,7 +376,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.0_lambda_0.1_mu_0.05",
-        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.1_mu_0.05\\v1_beta_1.0_lambda_0.1_mu_0.05_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.0_lambda_0.1_mu_0.05\\v1_beta_1.0_lambda_0.1_mu_0.05_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.5_lambda_0.01_mu_0.0_s42",
@@ -348,7 +386,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.5_lambda_0.01_mu_0.0",
-        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.01_mu_0.0\\v1_beta_1.5_lambda_0.01_mu_0.0_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.01_mu_0.0\\v1_beta_1.5_lambda_0.01_mu_0.0_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.5_lambda_0.01_mu_0.01_s42",
@@ -357,7 +396,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.5_lambda_0.01_mu_0.01",
-        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.01_mu_0.01\\v1_beta_1.5_lambda_0.01_mu_0.01_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.01_mu_0.01\\v1_beta_1.5_lambda_0.01_mu_0.01_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.5_lambda_0.01_mu_0.05_s42",
@@ -366,7 +406,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.5_lambda_0.01_mu_0.05",
-        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.01_mu_0.05\\v1_beta_1.5_lambda_0.01_mu_0.05_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.01_mu_0.05\\v1_beta_1.5_lambda_0.01_mu_0.05_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.5_lambda_0.05_mu_0.0_s42",
@@ -375,7 +416,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.5_lambda_0.05_mu_0.0",
-        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.05_mu_0.0\\v1_beta_1.5_lambda_0.05_mu_0.0_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.05_mu_0.0\\v1_beta_1.5_lambda_0.05_mu_0.0_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.5_lambda_0.05_mu_0.01_s42",
@@ -384,7 +426,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.5_lambda_0.05_mu_0.01",
-        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.05_mu_0.01\\v1_beta_1.5_lambda_0.05_mu_0.01_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.05_mu_0.01\\v1_beta_1.5_lambda_0.05_mu_0.01_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.5_lambda_0.05_mu_0.05_s42",
@@ -393,7 +436,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.5_lambda_0.05_mu_0.05",
-        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.05_mu_0.05\\v1_beta_1.5_lambda_0.05_mu_0.05_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.05_mu_0.05\\v1_beta_1.5_lambda_0.05_mu_0.05_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.5_lambda_0.1_mu_0.0_s42",
@@ -402,7 +446,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.5_lambda_0.1_mu_0.0",
-        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.1_mu_0.0\\v1_beta_1.5_lambda_0.1_mu_0.0_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.1_mu_0.0\\v1_beta_1.5_lambda_0.1_mu_0.0_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.5_lambda_0.1_mu_0.01_s42",
@@ -411,7 +456,8 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.5_lambda_0.1_mu_0.01",
-        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.1_mu_0.01\\v1_beta_1.5_lambda_0.1_mu_0.01_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.1_mu_0.01\\v1_beta_1.5_lambda_0.1_mu_0.01_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     },
     {
         "run_id": "v1_beta_1.5_lambda_0.1_mu_0.05_s42",
@@ -420,6 +466,7 @@
         "seed": 42,
         "topology": "random_regular",
         "output_dir": "data/validation\\sweep\\beta_1.5_lambda_0.1_mu_0.05",
-        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.1_mu_0.05\\v1_beta_1.5_lambda_0.1_mu_0.05_s42_episodes.csv"
+        "standardized_log": "data/episodes/v1\\beta_1.5_lambda_0.1_mu_0.05\\v1_beta_1.5_lambda_0.1_mu_0.05_s42_episodes.csv",
+        "validation_role": "exploratory_sanity"
     }
 ]

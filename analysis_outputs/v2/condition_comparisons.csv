@@ -1,0 +1,7 @@
+baseline_condition,control_condition,topology,metric,baseline_value,control_value,cliffs_delta,mw_pvalue,direction,supports_hccde
+baseline,high_decay,random_regular,slope_median,0.021793154607741352,0.027213813354064004,-0.4622222222222222,0.002156637821229769,baseline < control,True
+baseline,no_evolution,random_regular,slope_median,0.021793154607741352,0.02261435433841029,-0.19777777777777777,0.19073033347156776,baseline < control,True
+baseline,random_evolution,random_regular,slope_median,0.021793154607741352,0.020512449933023813,0.06666666666666667,0.662734758176107,baseline > control,False
+random_regular_baseline,high_decay,random_regular,slope_median,0.024991444159067625,0.027213813354064004,-0.36666666666666664,0.030126508256590925,baseline < control,True
+random_regular_baseline,no_evolution,random_regular,slope_median,0.024991444159067625,0.02261435433841029,-0.11,0.5198375077168678,baseline > control,False
+random_regular_baseline,random_evolution,random_regular,slope_median,0.024991444159067625,0.020512449933023813,0.18666666666666668,0.27174025026180726,baseline > control,False

@@ -121,7 +121,8 @@ def process_log(log_path, version, phase, condition, seed, topology, out_base, m
         "seed": seed,
         "topology": topology,
         "output_dir": os.path.dirname(log_path),
-        "standardized_log": out_path
+        "standardized_log": out_path,
+        "validation_role": "exploratory_sanity" if version == "v1" else "confirmatory_population"
     })
 
 if __name__ == "__main__":
