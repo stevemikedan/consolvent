@@ -12,7 +12,6 @@ class AttractorPredictor:
     def predict(self, spec: RunSpec) -> Prediction:
         claims = {
             "future_transitions_closed": False,
-            "closed_transitions": [],
         }
 
         if spec.comparison_history:
@@ -35,4 +34,3 @@ class AttractorPredictor:
                 "Transitions remain closed after the training condition is removed.",
             ],
         )
-

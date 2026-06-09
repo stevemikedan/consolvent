@@ -18,6 +18,14 @@ Run the default discriminator suite:
 python -m harness.cli --test all
 ```
 
+The default suite contains both discriminator runs and positive controls:
+
+- `memory_discriminator`: constraint dynamics with no readable storage.
+- `storage_positive_control`: readable current-state memory with no transition closure, where HCCDE should lose to the memory model.
+- `attractor_discriminator`: identical current state and dynamics with different histories, where measured reachability should differ if constraints narrow.
+- `attractor_positive_control`: attractor-only dynamics, where HCCDE should lose if histories do not reshape reachability.
+- `hysteresis_without_storage`: constraint persistence after the training condition is removed.
+
 Run the smoke tests:
 
 ```bash
@@ -31,6 +39,8 @@ The harness:
 3. Pre-registers predictions with a timestamp and hash before execution.
 4. Runs the sim and logs the observed outcome.
 5. Scores HCCDE against rivals only on disagreement cases.
+
+The sim must measure observables from generated state. It must not declare HCCDE claims as ground truth, and predictors must not read the sim's realized answer key.
 
 ## Repository Map
 

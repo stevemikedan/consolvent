@@ -10,11 +10,11 @@ class StoredMemoryPredictor:
     model_id = "stored_memory"
 
     def predict(self, spec: RunSpec) -> Prediction:
+        should_store_history = spec.history != "neutral"
         claims = {
-            "past_trajectory_reconstructable_from_current_state": True,
-            "readable_memory_value_present": True,
+            "past_trajectory_reconstructable_from_current_state": should_store_history,
+            "readable_memory_value_present": should_store_history,
             "future_transitions_closed": False,
-            "closed_transitions": [],
         }
 
         if spec.remove_training_conditions:
@@ -35,4 +35,3 @@ class StoredMemoryPredictor:
                 "Future transitions are physically or logically closed rather than merely selected against.",
             ],
         )
-

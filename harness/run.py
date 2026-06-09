@@ -28,6 +28,15 @@ def default_specs() -> List[RunSpec]:
             notes="HCCDE vs stored-memory model.",
         ),
         RunSpec(
+            test_id="storage_positive_control",
+            run_id="storage_memory_register",
+            sim_id=HistoryGatedGraphSim.sim_id,
+            history="north_channel",
+            current_state="pivot|memory=north_channel",
+            dynamics="attractor_only",
+            notes="Positive control: readable storage should beat HCCDE.",
+        ),
+        RunSpec(
             test_id="attractor_discriminator",
             run_id="attractor_north_vs_south",
             sim_id=HistoryGatedGraphSim.sim_id,
@@ -36,6 +45,16 @@ def default_specs() -> List[RunSpec]:
             current_state="pivot",
             dynamics="uniform_proposal",
             notes="Same state and dynamics, different histories.",
+        ),
+        RunSpec(
+            test_id="attractor_positive_control",
+            run_id="attractor_same_basin_control",
+            sim_id=HistoryGatedGraphSim.sim_id,
+            history="north_channel",
+            comparison_history="south_channel",
+            current_state="pivot",
+            dynamics="attractor_only",
+            notes="Positive control: attractor-only dynamics should beat HCCDE.",
         ),
         RunSpec(
             test_id="hysteresis_without_storage",
@@ -53,7 +72,11 @@ def default_specs() -> List[RunSpec]:
 def default_predictors_for(test_id: str) -> List[Predictor]:
     if test_id == "memory_discriminator":
         return [HCCDEPredictor(), StoredMemoryPredictor()]
+    if test_id == "storage_positive_control":
+        return [HCCDEPredictor(), StoredMemoryPredictor()]
     if test_id == "attractor_discriminator":
+        return [HCCDEPredictor(), AttractorPredictor()]
+    if test_id == "attractor_positive_control":
         return [HCCDEPredictor(), AttractorPredictor()]
     if test_id == "hysteresis_without_storage":
         return [HCCDEPredictor(), StoredMemoryPredictor(), AttractorPredictor()]
@@ -166,4 +189,3 @@ def score_hccde_disagreements(predictions: List[Prediction], outcome: SimOutcome
 
 def run_default_suite() -> List[Dict[str, Any]]:
     return [run_spec(spec) for spec in default_specs()]
-

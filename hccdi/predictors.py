@@ -65,4 +65,3 @@ class OrdinaryBiasPredictor:
                 "Alternatives become unavailable rather than merely less likely.",
             ],
         )
-

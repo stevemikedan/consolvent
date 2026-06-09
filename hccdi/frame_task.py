@@ -14,6 +14,7 @@ class FrameTaskSpec:
     ground_truth: str
     narrowing_strength: float
     evidence_steps: int
+    evidence_strength: float = 1.0
 
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)
@@ -39,10 +40,18 @@ class FrameConstrueSim:
         if not 0.0 <= spec.narrowing_strength <= 1.0:
             raise ValueError("narrowing_strength must be between 0 and 1.")
 
-        unframed_correction_steps = 1
-        framed_correction_steps = max(
-            1,
-            int(round(unframed_correction_steps + spec.narrowing_strength * spec.evidence_steps)),
+        unframed_correction_steps = self._correction_steps(
+            prior=None,
+            ground_truth=spec.ground_truth,
+            evidence_steps=spec.evidence_steps,
+            evidence_strength=spec.evidence_strength,
+        )
+        framed_correction_steps = self._correction_steps(
+            prior=spec.prior,
+            ground_truth=spec.ground_truth,
+            evidence_steps=spec.evidence_steps,
+            evidence_strength=spec.evidence_strength,
+            narrowing_strength=spec.narrowing_strength,
         )
 
         observed = {
@@ -54,6 +63,34 @@ class FrameConstrueSim:
             "correction_resistance_increases_with_narrowing": framed_correction_steps > unframed_correction_steps,
         }
         return FrameTaskOutcome(run_id=spec.run_id, observed=observed)
+
+    def _correction_steps(
+        self,
+        prior: str | None,
+        ground_truth: str,
+        evidence_steps: int,
+        evidence_strength: float,
+        narrowing_strength: float = 0.0,
+    ) -> int:
+        """Measure correction by iterating log-odds updates from evidence."""
+
+        log_odds_threat = 0.0
+        if prior == "threat":
+            log_odds_threat = 3.0 * narrowing_strength
+        elif prior == "benign":
+            log_odds_threat = -3.0 * narrowing_strength
+
+        target_is_threat = ground_truth == "threat"
+        for step in range(1, evidence_steps + 1):
+            if target_is_threat:
+                log_odds_threat += evidence_strength
+                if log_odds_threat > 0:
+                    return step
+            else:
+                log_odds_threat -= evidence_strength
+                if log_odds_threat < 0:
+                    return step
+        return evidence_steps + 1
 
 
 def default_hccdi_spec() -> FrameTaskSpec:
@@ -71,4 +108,3 @@ if __name__ == "__main__":
     import json
 
     print(json.dumps(FrameConstrueSim().run(default_hccdi_spec()).to_dict(), indent=2))
-

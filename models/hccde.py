@@ -4,7 +4,6 @@ from __future__ import annotations
 
 from models.base import Prediction
 from sims.base import RunSpec
-from sims.history_gated_graph import HistoryGatedGraphSim
 
 
 class HCCDEPredictor:
@@ -15,7 +14,6 @@ class HCCDEPredictor:
             "past_trajectory_reconstructable_from_current_state": False,
             "readable_memory_value_present": False,
             "future_transitions_closed": spec.history != "neutral",
-            "closed_transitions": HistoryGatedGraphSim.expected_closed_transitions(spec.history),
         }
 
         if spec.comparison_history:
@@ -40,4 +38,3 @@ class HCCDEPredictor:
                 "Different histories under identical dynamics do not change reachable sets.",
             ],
         )
-
