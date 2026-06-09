@@ -1,4 +1,0 @@
-baseline_condition,control_condition,topology,metric,baseline_value,control_value,cliffs_delta,mw_pvalue,direction,supports_hccde
-baseline,high_decay,random_regular,slope_median,0.17858828718245598,0.3211911685781267,-0.36,0.42063492063492064,baseline < control,True
-baseline,no_evolution,random_regular,slope_median,0.17858828718245598,0.12128177727263721,0.04,1.0,baseline > control,False
-baseline,random_evolution,random_regular,slope_median,0.17858828718245598,0.043505540886245496,0.52,0.2222222222222222,baseline > control,False

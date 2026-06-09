@@ -1,0 +1,31 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments and local tooling
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Temporary test/report outputs
+test_output/
+
+# Generated falsification records
+registry/predictions/*.json
+!registry/predictions/.gitkeep
+scoreboard/runs/*.json
+!scoreboard/runs/.gitkeep
+scoreboard/results.json
+
+# Generated experiment outputs
+data/**
+!data/README.md
+analysis_outputs/**
+!analysis_outputs/README.md
+paper_figures/**
+!paper_figures/README.md
+

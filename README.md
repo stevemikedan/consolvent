@@ -1,6 +1,59 @@
-# HCCDE: History-Conditioned Constraint-Driven Evolution
+# Consolvent: HCCDE Falsification Harness
 
-This repository contains the toy model and validation batteries for HCCDE.
+This repository tests History-Conditioned Constraint-Driven Evolution (HCCDE) by trying to kill it, not by illustrating it.
+
+The core rule: if a run cannot produce a result that would make HCCDE lose to a rival model, the run does not count as evidence.
+
+## Falsification Workflow
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the default discriminator suite:
+
+```bash
+python -m harness.cli --test all
+```
+
+Run the smoke tests:
+
+```bash
+python test_falsification_harness.py
+```
+
+The harness:
+
+1. Separates history, current state, and dynamics in each sim.
+2. Generates side-by-side predictions from HCCDE and rivals.
+3. Pre-registers predictions with a timestamp and hash before execution.
+4. Runs the sim and logs the observed outcome.
+5. Scores HCCDE against rivals only on disagreement cases.
+
+## Repository Map
+
+- `sims/`: toy systems with history, state, and dynamics exposed as separate knobs.
+- `models/`: HCCDE, stored-memory, attractor, and related predictors.
+- `harness/`: pre-register, run, score, and log falsification tests.
+- `registry/`: immutable prediction records written before runs.
+- `scoreboard/`: HCCDE win/loss/tie results against rivals.
+- `kill_conditions/`: written falsification conditions.
+- `hccdi/`: separate frame/prior construal tests.
+- `model/`, `experiments/`, `metrics/`, `analysis/`: earlier simulator, validation, and reporting code.
+
+Generated experiment data, analysis outputs, and paper figures are local artifacts. The repo keeps README placeholders for those directories; regenerate bulk outputs instead of committing them by default.
+
+## Kill Conditions
+
+HCCDE loses if:
+
+- the past trajectory is reconstructable from current state;
+- different histories under identical dynamics give identical reachable sets;
+- hysteresis is carried by a readable stored value rather than by transition narrowing.
+
+HCCDI loses if framed construals collapse to evidence as fast as unframed construals.
 
 ## Analytics Upgrade Workflow
 
